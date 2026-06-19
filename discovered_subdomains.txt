@@ -1,0 +1,12 @@
+www.google.com
+api.google.com
+admin.google.com
+billing.google.com
+files.google.com
+cloud.google.com
+shop.google.com
+blog.google.com
+docs.google.com
+help.google.com
+support.google.com
+mail.google.com
